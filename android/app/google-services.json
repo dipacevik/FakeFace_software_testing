@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801561155249",
+    "firebase_url": "https://fakeface-b30ee-default-rtdb.firebaseio.com",
+    "project_id": "fakeface-b30ee",
+    "storage_bucket": "fakeface-b30ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801561155249:android:18ced2373e0d1b07c8b490",
+        "android_client_info": {
+          "package_name": "com.facefake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801561155249-78got6i93c00qh5q03vm2i18qbsnge0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpzXUwRjVTERxgrvz1o9l2LgALhFNGqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801561155249-78got6i93c00qh5q03vm2i18qbsnge0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801561155249-qtfm6i4a3v5mrv94rjip7rnju0a7m84d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.FakeFace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
